@@ -10,8 +10,8 @@ If called in a loop, get_next_line returns the entire contents of a file, line b
 ## Usage
 
 In order to compile :
-<code>gcc srcs/main.c srcs/get_next_line.c srcs/get_next_line_utils.c</code>
-or
+<code>gcc srcs/main.c srcs/get_next_line.c srcs/get_next_line_utils.c</code><br>
+or<br>
 <code>gcc -D BUFFER_SIZE=42 srcs/main.c srcs/get_next_line.c srcs/get_next_line_utils.c</code>
 
 Execution :
